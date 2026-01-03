@@ -1,7 +1,7 @@
 # Olivier Leblanc
 **Software Developer & Cybersecurity Researcher**
 
-I am a developer and security researcher specializing in telecommunications infrastructure. My work bridges the gap between fullstack development and network protocol analysis, with a focus on mitigating automated telephony threats.
+I am a developer and security researcher specializing in telecommunications infrastructure and deep-web ecosystem analysis. My work focuses on the intersection of fullstack development and network security, specifically regarding automated threats and high-resiliency hosting.
 
 ---
 
@@ -25,13 +25,14 @@ I am a developer and security researcher specializing in telecommunications infr
 ---
 
 ### Technical Focus
-* **Fullstack Development:** Building scalable backend systems and secure network tools.
-* **VoIP Research:** Analysis of SIP/RTP vulnerabilities and Caller ID spoofing techniques.
-* **Threat Intelligence:** Identifying and neutralizing automated "P1" scam botnets.
+* **Fullstack Development:** Engineering resilient backend architectures and secure network interfaces.
+* **Network & Infrastructure Research:** Investigating bulletproof hosting (BPH) networks, jurisdictional arbitrage, and high-availability "underworld" web services.
+* **VoIP & Telephony Security:** Analyzing SIP/RTP vulnerabilities and the infrastructure of automated scam botnets.
 
-### Primary Research Project
-**[VoIP-Spoofing-Research](https://github.com/olivier-leblanc997/VoIP-Spoofing-Research)**
-A comprehensive examination of VoIP caller ID spoofing and the architecture of automated telephony bots.
+### Research Projects
+* **[VoIP-Spoofing-Research](https://github.com/olivier-leblanc997/VoIP-Spoofing-Research)**: Technical deep-dive into Caller ID spoofing mechanics and automated telephony bots.
+* **Bulletproof Hosting Analysis (Work in Progress)**: Research into the routing, ASN reputation, and legal gray-zones of resilient hosting providers.
+* **Darknet Ecosystems**: Mapping the technical infrastructure supporting contemporary underworld web services.
 
 ---
 **Contact:** olivier-leblanc@tutanota.com
