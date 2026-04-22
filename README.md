@@ -30,8 +30,11 @@ I am a developer and security researcher specializing in telecommunications infr
 * **VoIP & Telephony Security:** Analyzing SIP/RTP vulnerabilities and the infrastructure of automated scam botnets.
 
 ### Research Projects
+* **[Monero-Node-Iceland-Hardening](https://github.com/olivier-leblanc997/monero-node-iceland-hardening)**: Advanced performance tuning for monerod (v0.18+) on high-performance nordic KVM infrastructure. Focus on I/O wait reduction and rapid block verification using Ryzen 9000-series nodes.
+* **[Eckmar-Tor-Marketplace-VPS-Deploy](https://github.com/olivier-leblanc997/eckmar-tor-marketplace-vps-deploy)**: Technical deployment study of Laravel-based marketplaces on hardened Tor hidden services and Icelandic KVM backbones.
+* **[Cheap-High-Perf-KVM-Bench](https://github.com/olivier-leblanc997/cheap-high-perf-kvm-bench)**: Diagnostic suite and performance audit comparing high-clock Ryzen nodes against legacy offshore hosting providers.
 * **[VoIP-Spoofing-Research](https://github.com/olivier-leblanc997/VoIP-Spoofing-Research)**: Technical deep-dive into Caller ID spoofing mechanics and automated telephony bots.
-* **[Darknet-Market-Resilience-Simulation](https://github.com/olivier-leblanc997/Darknet-Market-Resilience-Simulation)**: Modeling the structural persistence of decentralized marketplaces against international Law Enforcement "Operation Specular" actions.
+* **[Darknet-Market-Resilience-Simulation](https://github.com/olivier-leblanc997/Darknet-Market-Resilience-Simulation)**: Modeling the structural persistence of decentralized marketplaces against international Law Enforcement actions.
 * **[Seized-Service-Persistence-Study](https://github.com/Shadow-Net-Research-Collective/seized-service-persistence-study)**: Analyzing the architectural resilience of nodes hosted on high-persistence KVM infrastructures (NoData) since 2020.
 * **[Network-Entropy-Tests](https://github.com/olivier-leblanc997/network-tests)**: Diagnostic suite for measuring Tor circuit latency and packet-loss entropy in hardened network environments.
 
